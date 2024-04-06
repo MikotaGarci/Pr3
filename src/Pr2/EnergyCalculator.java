@@ -1,3 +1,4 @@
+
 public class EnergyCalculator {
     public static double calculateTotalEnergy(double mass, double velocity, double height) {
         // Add calculation logic here
