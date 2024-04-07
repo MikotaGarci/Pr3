@@ -1,4 +1,3 @@
-
 public class HTMLResultRenderer implements CalculationResultRenderer {
     @Override
     public String render(CalculationResult result) {

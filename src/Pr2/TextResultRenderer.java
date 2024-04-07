@@ -1,5 +1,3 @@
-
-
 public class TextResultRenderer implements CalculationResultRenderer {
     @Override
     public String render(CalculationResult result) {
